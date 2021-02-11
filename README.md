@@ -1,6 +1,10 @@
 "# 611463023-node-p2pserver" 
 
-##init
-npm i
-##start
-node index.js
+### `npm i`
+
+init
+
+### `node index.js`
+
+start
+
